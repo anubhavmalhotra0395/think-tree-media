@@ -1,0 +1,94 @@
+.projects-container {
+    background-color: #F8F8F8 !important;
+    height: 90vh;
+    overflow-x: hidden;
+}
+
+.slick-slide {
+    display: flex;
+    height: 300px;
+    box-sizing: border-box;
+    width: 540px !important;
+    margin-right: 20px;
+}
+
+.slick-slide>div {
+    width: 100%;
+}
+
+.slick-next,
+.slick-prev {
+
+ visibility: hidden;
+ display: none;
+}
+
+.projects-des-text {
+    font-weight: 200;
+    font-size: 13px;
+}
+
+.projects-des-text2 {
+    font-weight: 200;
+    font-size: 13px;
+}
+
+.projects-des-text3 {
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.projects-description {
+    font-size: 16px;
+    font-weight: 200;
+    width: 67.2%;
+}
+
+.slick-next {
+    right: 10px;
+}
+
+.slick-prev {
+    left: 10px;
+}
+
+.projects-text {
+    color: #878B8D;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.projects-inner-text {
+    color: #002F70;
+}
+
+.projects-img {
+    object-fit: contain;
+    height: 230px;
+    object-position: left;
+}
+
+.projects-button {
+    width: 31%;
+    border-bottom-right-radius: 20px;
+    border: 1px solid #002F70;
+    font-size: 13px;
+    font-weight: 200;
+    background-color: white;
+}
+
+.projects-button2 {
+    width: 45px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #002F70;
+    font-size: 13px;
+    font-weight: 200;
+    background-color: white;
+}
+
+.projects-arrow {
+    height: 12px;
+    margin-left: -6px;
+    margin-top: -6px;
+}

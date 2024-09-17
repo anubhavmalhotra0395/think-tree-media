@@ -1,0 +1,39 @@
+*{
+   font-family: "Manrope", sans-serif;
+}
+
+.about-container{
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-text-small{
+    color:#002F70 !important;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.about-text{
+    color:#002F70 !important;
+    font-weight: 600;
+}
+
+.about-description{
+    font-size: 16px;
+    font-weight: 200;
+    width: 80%;
+}
+
+.about-button{
+    width: 25%;
+   border-bottom-right-radius: 20px;
+   border: 1px solid #002F70;
+   font-size: 13px;
+   font-weight: 200;
+}
+
+.about-image{
+    height: 580px;
+}

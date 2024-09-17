@@ -1,0 +1,20 @@
+.hero-content-container{
+     height: 51%;
+}
+
+.hero-content-text{
+    color: #fff;
+    font-size: 80px;
+    font-weight:500;
+}
+
+.hero-content-button{
+    width: 34%;
+    border: 0;
+    font-weight: 200;
+    font-size: 13px;
+}
+
+.vector{
+    height: 12px;
+}
