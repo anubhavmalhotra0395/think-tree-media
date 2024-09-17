@@ -5,7 +5,7 @@ import './styles/HeroContainer.css'
 
 const HeroContainer = () => {
   return (
-    <div className='hero-container d-flex flex-column justify-content-between align-items-center px-5'>
+    <div className='hero-container d-flex flex-column justify-content-between align-items-center'>
         <Navbar />
         <HeroContent />
     </div>
